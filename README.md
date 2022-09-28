@@ -1,9 +1,6 @@
 # section_2
-<hr>
-<br>
 https://glowinggoldenglobe.github.io/section_2/index.html 
 <hr>
-<br>
 Documents - Journal:  God;  Metaphysical Creation;  Artificial Intelligence;  Unreal Humans
 
 Contents<br>
