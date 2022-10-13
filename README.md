@@ -1,6 +1,9 @@
 # section_2
 https://glowinggoldenglobe.github.io/section_2/index.html 
 <hr>
+<h3>Human Development</h3>
+<hr>
+<h4>Preface</h4>
 Documents - Journal:  God;  Metaphysical Creation;  Artificial Intelligence;  Unreal Humans;  Human Development
 
 Contents<br>
