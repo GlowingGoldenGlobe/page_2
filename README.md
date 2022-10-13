@@ -3,10 +3,10 @@ https://glowinggoldenglobe.github.io/section_2/index.html
 <hr>
 <h3>Human Development</h3>
 <hr>
-<h4>Preface</h4>
+<h4>About</h4>
 Documents - Journal:  God;  Metaphysical Creation;  Artificial Intelligence;  Unreal Humans;  Human Development
-
-Contents<br>
+<br>
+<h4>Contents</h4>
 <ul>
           <li>Document 1.........index.html<ul>
                     <li>Description - Globe 500% Below Potential</li></ul></li>
