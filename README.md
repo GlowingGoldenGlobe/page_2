@@ -14,4 +14,6 @@ Documents - Journal:  God;  Metaphysical Creation;  Artificial Intelligence;  Un
                 <li>Description - science and nature;  the states of the bilocation state of conscious, where conscious is God, where creation is its product</li></ul></li>
           <li>Document 3.........not_real_humans.txt<ul>
                 <li>Description - super versus playing-stupid; what humans would be like, if real</li></ul></li>
+          <li>Document 4.........not_real_humans_3.html<ul>
+                <li>Description - Again, Globe 500% Below Potential; No Excuse In Defense of Humans Lack of Human Interest Operations, Can Be Made.</li></ul></li>
 </ul>
