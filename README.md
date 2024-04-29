@@ -15,5 +15,5 @@ Documents - Journal:  God;  Metaphysical Creation;  Artificial Intelligence;  Un
           <li>Document 3.........not_real_humans.txt<ul>
                 <li>Description - super versus playing-stupid; what humans would be like, if real</li></ul></li>
           <li>Document 4.........not_real_humans_3.html<ul>
-                <li>Description - Again, Globe 500% Below Potential; No Excuse To Defensd Humans's Lack of Human-Interest-Operations, Can Be Made.</li></ul></li>
+                <li>Description - Again, Globe 500% Below Potential; No Excuse To Defend Humans's Lack of Human-Interest-Operations, Can Be Made.</li></ul></li>
 </ul>
